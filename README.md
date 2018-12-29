@@ -1,2 +1,3 @@
-# pttc-plugin
+# PT Plugin
+
 Personal project
